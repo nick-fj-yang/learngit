@@ -8,3 +8,4 @@ forbid fast forward
 
 stash test in issue101
 test: branch push to origin
+this is bug2
