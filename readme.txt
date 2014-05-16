@@ -7,4 +7,7 @@ creating a new branch is quick and simple
 forbid fast forward
 
 stash test in issue101
-this is test line too
+
+test: branch push to origin
+this is test line
+
